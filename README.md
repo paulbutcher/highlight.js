@@ -43,3 +43,4 @@ other things.
 |---------------|--------------------------------------------|
 | `.hljs-subst` | Used for highlighting string interpolation |
 | `.hljs-meta`  | Used for highlighting annotations          |
+
